@@ -18,6 +18,7 @@ library(ggplot2)
 library(dplyr)
 ```
 
+
 ```{r load-dataset}
 gapminder <- read.csv("data/gapminder.csv")
 ```
